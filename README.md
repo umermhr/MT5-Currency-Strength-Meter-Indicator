@@ -2,9 +2,6 @@
 
 The **CM Strength Indicator** is a custom MetaTrader 5 (MT5) indicator designed to measure and display the relative strength of major currencies in the forex market. It helps traders identify strong and weak currencies, which can be useful for making informed trading decisions.
 
-![CM Strength Indicator Example](https://via.placeholder.com/800x400.png)  
-*(Placeholder for an image of the indicator in action)*
-
 ---
 
 ## Features
